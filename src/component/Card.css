@@ -1,0 +1,23 @@
+.Card{
+    margin: 10px; 
+    width :300px;
+    border-radius: 20px;
+    box-shadow:2px 2px 5px #3333;
+    opacity: 0.5;
+    background-color: rgb(83, 83, 82);
+    padding: 10px;
+    text-align: center;
+    border :2px solid #baab8f;
+}
+h2{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
